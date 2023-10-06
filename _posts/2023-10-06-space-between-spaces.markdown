@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Persephone: The Liminal Deity of Greek Mythology"
+title:  "Liminality in Architecture: Spaces Between Spaces"
 date:   2023-10-06 08:50:17 +1100
 categories: PhD Liminality
 ---
