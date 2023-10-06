@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Liminality in Architecture: Spaces Between Spaces"
-date:   2023-10-06 08:50:17 +1100
+date:   2023-10-01 08:50:17 +1100
 categories: PhD Liminality
 ---
 
