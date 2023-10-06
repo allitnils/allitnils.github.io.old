@@ -4,6 +4,10 @@ title:  "Liminal Spaces: An Intersection of Philosophy and Psychology"
 date:   2023-10-06 08:50:17 +1100
 categories: PhD Liminality
 ---
+
+# Liminal Spaces: An Intersection of Philosophy and Psychology
+
+
 Liminality, derived from the Latin word 'limen' meaning 'threshold', has long fascinated thinkers, writers, and scholars across disciplines. The concept of a liminal space – those transitional, in-between areas that straddle the familiar and the unknown – offers profound insights into the human condition and the nature of change and transformation. This article delves into the philosophical and psychological perspectives on liminal spaces, charting their historical evolution, contemporary relevance, and the deeper existential questions they pose.
 
 
