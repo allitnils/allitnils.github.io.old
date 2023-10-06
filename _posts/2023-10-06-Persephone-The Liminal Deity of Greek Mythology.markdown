@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Persephone: The Liminal Deity of Greek Mythology"
+date:   2023-10-06 08:50:17 +1100
+categories: PhD Liminality
+---
+
 # Persephone: The Liminal Deity of Greek Mythology
 
 Persephone, the daughter of Demeter and Zeus, stands as one of the most enigmatic figures in Greek mythology. As the goddess of both the springtime and the underworld, her story bridges the worlds of the living and the dead, making her a quintessential symbol of liminality. This article delves into the myth of Persephone, her role as a liminal deity, and the deeper layers of meaning her story adds to our understanding of transition, transformation, and rebirth.
