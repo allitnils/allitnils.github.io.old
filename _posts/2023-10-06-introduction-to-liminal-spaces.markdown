@@ -1,29 +1,34 @@
 ---
 layout: post
-title:  "Introduction to Liminal Spaces"
+title:  "Liminal Spaces: An Intersection of Philosophy and Psychology"
 date:   2023-10-06 08:50:17 +1100
 categories: PhD Liminality
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Liminality, derived from the Latin word 'limen' meaning 'threshold', has long fascinated thinkers, writers, and scholars across disciplines. The concept of a liminal space – those transitional, in-between areas that straddle the familiar and the unknown – offers profound insights into the human condition and the nature of change and transformation. This article delves into the philosophical and psychological perspectives on liminal spaces, charting their historical evolution, contemporary relevance, and the deeper existential questions they pose.
 
-Jekyll requires blog post files to be named according to the following format:
 
-`YEAR-MONTH-DAY-title.MARKUP`
+## Historical Background: The Philosophical Underpinnings
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+The term 'liminal' was popularized in the early 20th century by anthropologist Victor Turner, but its philosophical roots extend much deeper. Thinkers from Plato to Heidegger have grappled with the ideas of transition, boundaries, and the interstitial. For instance:
 
-Jekyll also offers powerful support for code snippets:
+**Plato's Cave Allegory**: The cave, as described in Plato's "Republic", represents a liminal space. The prisoners, who are bound and facing the wall of the cave, are in an in-between state, aware of the shadows but ignorant of the reality outside. The journey of the freed prisoner symbolizes the transition from ignorance to enlightenment, a move through a liminal realm.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+**Heidegger’s 'Being-toward-death'**: The German philosopher Martin Heidegger conceptualized existence as a constant 'being-toward-death', highlighting the liminal nature of human existence, straddling between birth and death, presence and absence.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+## The Psychological Lens: Transition and Transformation
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+From a psychological standpoint, liminal spaces are often associated with moments of transition, ambiguity, and potential transformation. Such spaces challenge our perceptions, identities, and feelings of belonging.
+
+**Erik Erikson's Stages of Psychosocial Development**: Erikson’s theory outlines eight stages, each marked by a specific conflict. These stages, such as the transition from adolescence to adulthood, can be seen as liminal periods where one's identity is in flux, awaiting resolution.
+
+**Jung’s Archetypes**: Carl Jung’s concept of the 'persona' and the 'shadow' also treads into liminal territory. The 'persona', or the mask we show to the world, contrasts with the 'shadow', the hidden or unconscious aspect of ourselves. The interplay between these two represents a liminal dialogue, a dance between the known and the unknown.
+
+"In liminal spaces, we confront the thresholds of our comfort zones, encountering the unfamiliar and revisiting the familiar with new eyes."
+
+## Bridging the Disciplines
+
+The allure of liminal spaces lies in their ambiguity. They defy easy categorization, residing at the crossroads of the known and the unknown, the past and the future, the self and the other. Philosophy offers tools to dissect and understand these spaces, while psychology provides a lens to explore their impact on human behavior and cognition. The interplay between these disciplines allows for a richer, multi-dimensional exploration of liminality.
+
+In conclusion, liminal spaces, with their enigmatic allure, invite us to pause, reflect, and engage with the deeper questions of existence. As we navigate these spaces, we not only discover the world around us but also the universe within.
+
+For further reading and exploration, consider diving into the works of Victor Turner, Plato's "Republic", Heidegger's "Being and Time", and Carl Jung's "The Archetypes and The Collective Unconscious".
