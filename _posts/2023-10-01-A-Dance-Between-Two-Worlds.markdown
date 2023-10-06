@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Persephone: The Liminal Deity of Greek Mythology"
+title:  "Persephone and Liminality: A Dance Between Two Worlds"
 date:   2023-10-01 08:50:17 +1100
 categories: PhD Liminality
 ---
